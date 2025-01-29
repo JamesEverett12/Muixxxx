@@ -4,7 +4,7 @@ module.exports = {
   TOKEN: "OTk0NjMzMDc4OTI2NDgzNTY3.G2db5P.wbib73oaSZrAG_-MxixaBKOROAHyZPu4xVIvk8",
   language: "en",
   ownerID: ["855864164387389442", "469158095424061441"], 
-  mongodbUri : "",
+  mongodbUri : "mongodb+srv://itzjamesyt11:<db_password>@cluster0.ge8py.mongodb.net/",
   setupFilePath: './commands/setup.json',
   commandsDir: './commands',  
   embedColor: "#1db954",
