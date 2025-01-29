@@ -1,9 +1,9 @@
 
 
 module.exports = {
-  TOKEN: "",
+  TOKEN: "OTk0NjMzMDc4OTI2NDgzNTY3.G2db5P.wbib73oaSZrAG_-MxixaBKOROAHyZPu4xVIvk8",
   language: "en",
-  ownerID: ["1004206704994566164", ""], 
+  ownerID: ["855864164387389442", "469158095424061441"], 
   mongodbUri : "",
   setupFilePath: './commands/setup.json',
   commandsDir: './commands',  
